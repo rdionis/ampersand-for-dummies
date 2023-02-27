@@ -1,5 +1,24 @@
 {
+  "name": "ampersand-for-dummies",
+  "version": "1.0.0",
+  "description": "A very simple project to understand Ampersandjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdionis/ampersand-for-dummies.git"
+  },
+  "author": "Raquel Dionísio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdionis/ampersand-for-dummies/issues"
+  },
+  "homepage": "https://github.com/rdionis/ampersand-for-dummies#readme",
   "dependencies": {
-    "ampersand-view": "10.0.3"
-  }
+    "ampersand-view": "^10.0.3"
+  },
+  "type": "module"
 }
